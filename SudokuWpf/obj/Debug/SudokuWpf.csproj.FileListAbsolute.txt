@@ -1,0 +1,15 @@
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\bin\Debug\SudokuWpf.exe.config
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\bin\Debug\SudokuWpf.exe
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\bin\Debug\SudokuWpf.pdb
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.csprojResolveAssemblyReference.cache
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\MainWindow.g.cs
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\App.g.cs
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf_MarkupCompile.cache
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf_MarkupCompile.lref
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\MainWindow.baml
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.g.resources
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.Properties.Resources.resources
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.csproj.GenerateResource.Cache
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.exe
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.pdb
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuWpf\obj\Debug\SudokuWpf.csproj.CoreCompileInputs.cache

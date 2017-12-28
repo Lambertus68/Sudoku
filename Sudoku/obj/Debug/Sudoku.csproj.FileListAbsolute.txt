@@ -1,0 +1,6 @@
+c:\users\lambe\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.dll
+c:\users\lambe\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+c:\users\lambe\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+c:\users\lambe\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.dll
+c:\users\lambe\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache

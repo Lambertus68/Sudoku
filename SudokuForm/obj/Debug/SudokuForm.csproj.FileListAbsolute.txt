@@ -1,0 +1,12 @@
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\bin\Debug\SudokuForm.exe.config
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\bin\Debug\SudokuForm.exe
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\bin\Debug\SudokuForm.pdb
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\bin\Debug\Sudoku.dll
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\bin\Debug\Sudoku.pdb
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.csprojResolveAssemblyReference.cache
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.DiagramForm.resources
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.Properties.Resources.resources
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.csproj.GenerateResource.Cache
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.exe
+C:\Users\lambe\documents\visual studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.pdb
+C:\Users\lambe\Documents\Visual Studio 2017\Projects\Sudoku\SudokuForm\obj\Debug\SudokuForm.csproj.CoreCompileInputs.cache
